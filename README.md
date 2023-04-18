@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nassimbennsib&label=Profile%20views&color=0e75b6&style=flat" alt="nassimbennsib" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack** & **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NassimBenNsib](https://github.com/NassimBenNsib)
 
