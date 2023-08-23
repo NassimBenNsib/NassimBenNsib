@@ -21,3 +21,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nassimbennsib&show_icons=true&locale=en&layout=compact" alt="nassimbennsib" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nassimbennsib&show_icons=true&locale=en" alt="nassimbennsib" /></p>
+
+## 📊 My GitHub Stats
+![Nassim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nassimbennsib&hide_title=true&card_width=1060&line_height=29&show_icons=true&theme=github_dark)<br />
+![Nassim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nassimbennsib&card_width=1060&layout=normal&theme=github_dark)
+
+## 🏆 My GitHub Profile Trophies
+[![Trophy](https://github-profile-trophy.vercel.app/?username=nassimbennsib&theme=onestar&margin-w=40&margin-h=20)](https://github.com/steffano-da-cruz/github-pro
