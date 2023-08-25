@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=NassimBenNsib&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NassimBenNsib&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NassimBenNsib&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![Nassim Ben Nsib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NassimBenNsib)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nassim Ben Nsib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NassimBenNsib&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NassimBenNsib&theme=radical&no-frame=false&no-bg=false&margin-w=4)
