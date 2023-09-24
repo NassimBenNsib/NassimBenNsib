@@ -19,12 +19,7 @@
 
 # 😂 Random Dev Meme
 <div style="display:flex;justify-content:center">
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="width: 100%;"/>
 </div>
 
 ---
